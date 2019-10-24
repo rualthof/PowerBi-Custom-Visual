@@ -1,0 +1,30 @@
+{
+    "dataRoles": [
+        {
+            "displayName": "Number of Ships",
+            "name": "noOfShips",
+            "kind": "Measure"
+        }    
+    ],
+    
+    "objects": {        
+        "spaceShip": {
+            "displayName" : "Ship Settings",
+            "properties": {
+                "maxSpeed": {
+                    "displayName": "Maximum Speed",
+                    "type": {"numeric": true}
+                },
+                "imageURL": {
+                    "displayName": "Image URL",
+                    "type" : {"text" : true}
+                }
+            }
+        }   
+    },
+    "dataViewMappings": [
+        {
+            "single" : {"role" : "noOfShips"}
+        }
+    ]
+}

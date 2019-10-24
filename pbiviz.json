@@ -1,0 +1,25 @@
+{
+    "visual": {
+        "name": "rockets",
+        "displayName": "rockets",
+        "guid": "rockets0F6FF181502B46B991745C84518B047E",
+        "visualClassName": "Visual",
+        "version": "1.0.0",
+        "description": "aa",
+        "supportUrl": "aaa",
+        "gitHubUrl": "aaa"
+    },
+    "apiVersion": "2.6.0",
+    "author": {
+        "name": "aa",
+        "email": "aa"
+    },
+    "assets": {
+        "icon": "assets/icon.png"
+    },
+    "externalJS": null,
+    "style": "style/visual.less",
+    "capabilities": "capabilities.json",
+    "dependencies": null,
+    "stringResources": []
+}

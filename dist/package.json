@@ -1,0 +1,17 @@
+{
+    "version": "1.0.0",
+    "author": {"name":"aa","email":"aa"},
+    "resources": [
+        {
+            "resourceId": "rId0",
+            "sourceType": 5,
+            "file": "resources/rockets0F6FF181502B46B991745C84518B047E.pbiviz.json"
+        }
+    ],
+    "visual": {"name":"rockets","displayName":"rockets","guid":"rockets0F6FF181502B46B991745C84518B047E","visualClassName":"Visual","version":"1.0.0","description":"aa","supportUrl":"aaa","gitHubUrl":"aaa"},
+    "metadata": {
+        "pbivizjson": {
+            "resourceId": "rId0"
+        }
+    }  
+}
